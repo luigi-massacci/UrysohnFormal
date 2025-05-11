@@ -7,3 +7,5 @@ This repository contains a construction of the Urysohn Universal Space in [Lean4
    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/luigi-massacci/UrysohnFormal)
 
 Note that the project contains one big computation that can take longer than the default timeout (a simple if time consuming improvement would be to cut it up into smaller pieces). If you get an error `(deterministic) timeout ...`, find the line `set_option maxHeartbeats` and increase the number (ex. double it) and it should eventually compile). 
+
+Feel free to email me at "name" "dot" "surname" "at" etu-upsaclay "dot" fr if you would like to pick this project or have any questions.  
